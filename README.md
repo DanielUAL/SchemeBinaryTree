@@ -1,2 +1,2 @@
 # SchemeBinaryTree
-This assignment required learning and making use of Scheme's naturally recursive nature to create a binary tree.
+The project was given as a final test to see if I would be able to apply the knowledge I have about programming as a whole into a language I had never used. This assignment required learning and making use of Scheme's naturally recursive nature to create a binary tree. The main challenge comes from trying to understand the unfamiliar syntax of the language, and less on the actual logic that comes with creating a binary tree.
